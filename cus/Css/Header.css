@@ -1,0 +1,54 @@
+header{
+    background-color: #2C0959;
+}
+.fff{
+    width: 150px;
+    height: 98px;
+    display: flex;
+}
+.ff{
+    text-decoration: none;
+    font-size: 22px;
+    color: #ffffff;
+    font-family: ManropeSemiBold;
+}
+.logo {
+    width: 70%;
+}
+.header{
+    display: flex;
+    box-sizing: content-box;
+    width: 83.33%;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    height: 144px;
+}
+.header h1 {
+    font-family: Ungai;
+    font-size: 50px;
+    color: #ffffff;
+}
+nav{
+    background-color: #1A1A1A;
+    height: 86px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav a{
+    text-decoration: none;
+    font-size: 30px;
+    font-family: ManropeExtraBold;
+    color: #ffffff;
+}
+nav li{
+    list-style: none;
+    margin-right: 80px;
+    margin-left: 65px;
+}
+nav ul {
+    display: flex;
+    padding: 0;
+    margin: 0 auto;
+}

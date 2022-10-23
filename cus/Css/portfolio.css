@@ -1,0 +1,12 @@
+.portfolio{
+    width: 72.6%;
+}
+.carousel-indicators{
+    position: relative;
+    top: 9px;
+}
+.carousel-control-next, .carousel-control-prev{
+    width: 8%;
+    background: #232323;
+    opacity: .7;
+}
